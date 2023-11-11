@@ -8,16 +8,16 @@ Monolithic application is a straight-forwarded way of building a simple applicat
 The microservice architecture is a software development methodology which aids the design, development, and maintenance of large-scale applications. Although it is composed of several independent services, the microservice applications still act as a standalone appliccation and end-users would have the same experience as monolithic applications. 
 
 ## Characteristics of microservice architecture and design
-1. Service APIs
+1. Service APIs <br/>
 Component-based architectures aim to provide functionality via reusable components.
 
-2. Cross-functional teams
+2. Cross-functional teams <br/>
 The microservices software design assigns developers to cross-functional teams where each team develops one/more microservices, and the team maintains each from start to finish.
 
-3. Ownership over the product lifecycle
+3. Ownership over the product lifecycle <br/>
 Each microservice team is responsible from UX design to frontend, backend, deployment and maintenance of the service.
 
-4. Design for failure
+4. Design for failure <br/>
 A microservice application is composed of several microservices, and the application needs to be designed to tolerate failure - keep operating when any component of the microservice becomes unavailable.
 
 ## Advantages and Disadvantages of Microservices
