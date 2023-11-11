@@ -7,8 +7,6 @@ Monolithic application is a straight-forwarded way of building a simple applicat
 
 The microservice architecture is a software development methodology which aids the design, development, and maintenance of large-scale applications. Although it is composed of several independent services, the microservice applications still act as a standalone appliccation and end-users would have the same experience as monolithic applications. 
 
-![monolith_microservice](https://github.com/yiwei-chay/software-engineering-notes/assets/146081571/7da08718-fe3b-4423-8da3-fd7e7d9420c3)
-
 
 ## Characteristics of microservice architecture and design
 1. Service APIs <br/>
